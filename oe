@@ -4,7 +4,7 @@
 #
 
 OLLAMA_BASH_EVAL_NAME='Ollama Bash Eval'
-OLLAMA_BASH_EVAL_VERSION='0.0.1'
+OLLAMA_BASH_EVAL_VERSION='0.0.2'
 OLLAMA_BASH_EVAL_URL='https://github.com/attogram/ollama-bash-eval'
 OLLAMA_BASH_EVAL_DISCORD='https://discord.gg/BGQJCbYVBa'
 OLLAMA_BASH_EVAL_LICENSE='MIT'
