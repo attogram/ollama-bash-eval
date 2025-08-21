@@ -8,4 +8,4 @@ Stop forgetting the right flags for tar or git, just ask!
 
 ## Library
 
-`oe` uses a subsetvof the [Ollama Bash Lib](https://github.com/attogram/ollama-bash-lib) to interact with Ollama.
+`oe` uses a subset of the [Ollama Bash Lib](https://github.com/attogram/ollama-bash-lib) to interact with Ollama.
